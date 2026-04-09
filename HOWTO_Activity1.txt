@@ -1,0 +1,17 @@
+# Activity 1 — OOP Design
+
+## Description
+This program demonstrates Object-Oriented Programming concepts.
+
+## Concepts Used
+- Abstraction (Person class)
+- Inheritance (Doctor, Nurse, Patient)
+- Interfaces (Payable, Billable)
+- Method overriding
+- Constructors
+
+## How to Run
+Run HospitalSystemActivity1.java in your IDE.
+
+## Output
+Displays doctor salary, nurse salary, and patient bill.

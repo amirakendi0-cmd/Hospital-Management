@@ -1,0 +1,16 @@
+# Activity 2 — Collections & File Storage
+
+## Description
+This program stores patients using ArrayList and saves/loads them from a file.
+
+## Concepts Used
+- ArrayList (collection)
+- FileWriter / BufferedWriter
+- FileReader / BufferedReader
+
+## How to Run
+Run HospitalSystemActivity2.java
+
+## Output
+- Saves patient data to patients.txt
+- Loads and displays patient names
