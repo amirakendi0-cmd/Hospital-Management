@@ -1,0 +1,21 @@
+# Hospital Management System
+
+## Description
+Java-based system demonstrating OOP, collections, file handling, and exception handling.
+
+## Features
+- Add/view patients
+- File saving/loading
+- Exception handling
+
+## Concepts Used
+- OOP (Inheritance, Abstraction, Interfaces)
+- Collections (ArrayList)
+- File Handling (BufferedReader/Writer)
+- Exception Handling
+
+## How to Run
+Run HospitalManagementSystem.java in any Java IDE.
+
+## Notes
+Data is saved in patients.txt
